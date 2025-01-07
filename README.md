@@ -10,5 +10,5 @@ This project was completed as part of the course CPSC-5310: Machine Learning.
 This project was a collaborative effort with contributions from multiple team members but was led by me.  
 
 #### Team Members:  
-Krishna Koushik Parimi
+Krishna Koushik Parimi  
 Rupa Dinesh Fnu
