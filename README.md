@@ -7,7 +7,7 @@ By analyzing drug reviews, this study seeks to contribute to a deeper understand
 This project was completed as part of the course CPSC-5310: Machine Learning.  
 
 #### Contributors:  
-This project was a collaborative effort with contributions from multiple team members but was led by me.  
+This project was a collaborative effort with contributions from multiple team members.  
 
 #### Team Members:  
 Krishna Koushik Parimi  
